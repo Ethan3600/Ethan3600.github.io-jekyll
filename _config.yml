@@ -1,0 +1,10 @@
+# Site settings
+title: The Ethan Site
+email: Ethan3600@gmail.com
+description: I'm aight
+url: http://ethan3600.github.io/
+github_username: Ethan3600
+
+# Build settings
+markdown: kramdown
+permalink: pretty
